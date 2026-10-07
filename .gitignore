@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Environment Variables & Secrets
+.env
+*.pem
+
+# Project Files
+*.pdf
+temp_web_download.pdf
